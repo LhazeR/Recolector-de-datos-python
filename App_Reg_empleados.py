@@ -210,4 +210,4 @@ if __name__ == "__main__":
             print("\n👋 Saliendo del sistema...")
             break
         else:
-            print("\n❌ Opción inválida.")
+            print("\n❌ Opción inválidaa.")
